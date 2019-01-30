@@ -1,0 +1,14 @@
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\bin\Debug\netcoreapp2.1\Demo.Web.deps.json
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\bin\Debug\netcoreapp2.1\Demo.Web.runtimeconfig.json
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\bin\Debug\netcoreapp2.1\Demo.Web.runtimeconfig.dev.json
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\bin\Debug\netcoreapp2.1\Demo.Web.dll
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\obj\Debug\netcoreapp2.1\Demo.Web.csprojAssemblyReference.cache
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\obj\Debug\netcoreapp2.1\Demo.Web.csproj.CoreCompileInputs.cache
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\obj\Debug\netcoreapp2.1\Demo.Web.RazorAssemblyInfo.cache
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\obj\Debug\netcoreapp2.1\Demo.Web.RazorAssemblyInfo.cs
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\obj\Debug\netcoreapp2.1\Demo.Web.AssemblyInfoInputs.cache
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\obj\Debug\netcoreapp2.1\Demo.Web.AssemblyInfo.cs
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\obj\Debug\netcoreapp2.1\Demo.Web.RazorTargetAssemblyInfo.cache
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\bin\Debug\netcoreapp2.1\Demo.Web.pdb
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\obj\Debug\netcoreapp2.1\Demo.Web.dll
+E:\TestProject\DocNetCore\Swagger\src\Demo.Web\obj\Debug\netcoreapp2.1\Demo.Web.pdb
