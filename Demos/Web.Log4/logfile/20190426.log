@@ -1,0 +1,11 @@
+2019-04-26 17:51:01,985 [7] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/2.0 GET https://localhost:44368/  
+2019-04-26 17:51:02,072 [7] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Web.Log4.Controllers.HomeController.Index (Web.Log4)'
+2019-04-26 17:51:02,088 [7] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home"}. Executing action Web.Log4.Controllers.HomeController.Index (Web.Log4)
+2019-04-26 17:51:02,101 [7] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executing action method Web.Log4.Controllers.HomeController.Index (Web.Log4) - Validation state: Valid
+2019-04-26 17:51:02,103 [7] ERROR Web.Log4.Log4Net - error!!!
+2019-04-26 17:51:02,105 [7] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action method Web.Log4.Controllers.HomeController.Index (Web.Log4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.0834ms.
+2019-04-26 17:51:02,137 [7] INFO  Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor - Executing ViewResult, running view Index.
+2019-04-26 17:51:02,378 [7] INFO  Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor - Executed ViewResult - view Index executed in 262.7143ms.
+2019-04-26 17:51:02,379 [7] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker - Executed action Web.Log4.Controllers.HomeController.Index (Web.Log4) in 290.81ms
+2019-04-26 17:51:02,382 [7] INFO  Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Web.Log4.Controllers.HomeController.Index (Web.Log4)'
+2019-04-26 17:51:02,392 [7] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 411.0707ms 200 text/html; charset=utf-8
